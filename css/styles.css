@@ -154,9 +154,7 @@ img {
 
 .hero-section {
   padding-top: 200px;
-  padding-right: 452px;
   padding-bottom: 200px;
-  padding-left: 452px;
   text-align: center;
   background: var(--secondary-dark-bgc);
 }
@@ -198,9 +196,7 @@ img {
 
 .features-section {
   padding-top: 94px;
-  padding-right: 215px;
   padding-bottom: 47px;
-  padding-left: 215px;
 }
 
 .features-list {
@@ -232,9 +228,7 @@ img {
 
 .what-we-do-section {
   padding-top: 47px;
-  padding-right: 215px;
   padding-bottom: 94px;
-  padding-left: 215px;
 }
 
 .what-we-do-title {
@@ -261,9 +255,7 @@ img {
 
 .our-team-section {
   padding-top: 94px;
-  padding-right: 215px;
   padding-bottom: 94px;
-  padding-left: 215px;
   background-color: var(--secondary-light-bgc);
   text-align: center;
 }
@@ -318,9 +310,7 @@ img {
 
 .footer {
   padding-top: 60px;
-  padding-right: 215px;
   padding-bottom: 60px;
-  padding-left: 215px;
   background: var(--secondary-dark-bgc);
 }
 
@@ -359,9 +349,7 @@ img {
 
 .portfolio-section {
   padding-top: 94px;
-  padding-right: 215px;
   padding-bottom: 94px;
-  padding-left: 215px;
 }
 
 .filter-list {
